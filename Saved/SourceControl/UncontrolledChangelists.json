@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/dotto/Documents/Projects/Extraordinaria_UI/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/dotto/Documents/Projects/Extraordinaria_UI/Content/UI/WB_TalentWidget.uasset",
+				"C:/Users/dotto/Documents/Projects/Extraordinaria_UI/Content/UI/WB_TalentTreeWidget.uasset",
+				"C:/Users/dotto/Documents/Projects/Extraordinaria_UI/Content/UI/DA_TalentTree.uasset",
+				"C:/Users/dotto/Documents/Projects/Extraordinaria_UI/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/dotto/Documents/Projects/Extraordinaria_UI/Content/ThirdPerson/Input/Actions/IA_OpenTalent.uasset",
+				"C:/Users/dotto/Documents/Projects/Extraordinaria_UI/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/dotto/Documents/Projects/Extraordinaria_UI/Content/UI/IA_OpenTalent.uasset",
+				"C:/Users/dotto/Documents/Projects/Extraordinaria_UI/Content/WB_TalentTreeWidget.uasset"
+			]
+		}
+	]
+}
