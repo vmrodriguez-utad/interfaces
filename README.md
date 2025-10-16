@@ -1,5 +1,11 @@
 
-Practica Extraordinaria UI.
+# Practica Extraordinaria UI.
+
+## Input
+
+Para abrir el menu de talentos, solo hay que empezar el juego y pulsar la tecla 'T'.
+
+## Memoria
 
 Para esta practica, siguiendo las especificaciones del enunciado, he usado C++ siempre que he podido. Para ello he optado por crear los Widgets a mano, en forma de UTalentWidget y UTalentTreeWidget.
 
